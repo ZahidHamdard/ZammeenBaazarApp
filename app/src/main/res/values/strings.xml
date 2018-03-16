@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">ZameenBaazar</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+
+    <string name="prompt_email">Email</string>
+    <string name="hint_passward">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="hint_password">passward</string>
+    <string name="btn_sign_up">Sign Up</string>
+    <string name="btn_link_login">Login</string>
+    <string name="prompt_password">passward</string>
+    <string name="hint_email">email</string>
+    <string name="password">Password</string>
+    <string name="confirmPassword">Confirm Password</string>
+    <string name="phone">Phone</string>
+    <string name="firstName">First Name</string>
+    <string name="customer">Customer</string>
+    <string name="propertyProfession">Property Professional</string>
+    <string name="category">Category</string>
+    <string name="packageChoice">Package</string>
+    <string name="trial">Trial Version</string>
+    <string name="bronze">Bronze</string>
+
+
+    <string-array name="categories">
+        <item>Sociteies</item>
+        <item>Builder Projects</item>
+        <item>Marketing Aencies</item>
+
+    </string-array>
+
+
+    <string-array name="Packeges">
+        <item>Trial Version</item>
+        <item>Bronze</item>
+        <item>Silver</item>
+        <item>Gold</item>
+        <item>Platinum</item>
+    </string-array>
+
+   <!--display the text-->
+    <string name="displayInVerification">Enter The Verification Code</string>
+
+    <!--for the verification code entry-->
+
+    <string name="verificationCode">Enter Code Here</string>
+
+    <!--for the enter code button-->
+    <string name="Enter">Verify</string>
+</resources>
